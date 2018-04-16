@@ -1,0 +1,36 @@
+{
+	"name": "leeroy-jenkins-cli",
+	"version": "0.0.0",
+	"description": "Let Leeroy Jenkins make your boring CLI life more fun",
+	"license": "MIT",
+	"repository": "vadimdemedes/leeroy-jenkins-cli",
+	"author": {
+		"name": "Vadim Demedes",
+		"email": "vdemedes@gmail.com",
+		"url": "github.com/vadimdemedes"
+	},
+	"bin": {
+		"leeroy-jenkins": "cli.js"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo"
+	},
+	"files": [
+		"index.js",
+		"cli.js",
+		"leeroy.wav"
+	],
+	"keywords": [
+		"leeroy-jenkins"
+	],
+	"dependencies": {
+		"execa": "^0.10.0",
+		"meow": "^3.7.0"
+	},
+	"devDependencies": {
+		"xo": "^0.18.2"
+	}
+}
