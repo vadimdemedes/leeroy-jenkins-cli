@@ -16,6 +16,14 @@ $ npm install --global leeroy-jenkins-cli
 $ leeroy-jenkins
 ```
 
+## Testimonies
+
+> I am so much more productive thanks to this tool. Nothing can stop me now.
+> `alias leeroy="git push --force && leeroy-jenkins"`
+> – @kaelig
+
+> I thought 10x engineers were a myth. With leeroy-jenkins-cli, it now all makes sense to me.
+> – @codinghorror (maybe… probably)
 
 ## License
 
