@@ -3,7 +3,7 @@
 const meow = require('meow');
 const leeroyJenkins = require('.');
 
-const cli = meow(`
+meow(`
 	Usage
 	  $ leeroy-jenkins
 
