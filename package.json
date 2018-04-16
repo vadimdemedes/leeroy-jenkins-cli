@@ -1,6 +1,6 @@
 {
 	"name": "leeroy-jenkins-cli",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Let Leeroy Jenkins make your boring CLI life more fun",
 	"license": "MIT",
 	"repository": "vadimdemedes/leeroy-jenkins-cli",
